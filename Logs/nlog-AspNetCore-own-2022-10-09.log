@@ -1,0 +1,25 @@
+2022-10-09 20:23:43.9315|0|DEBUG|Program|init main |url: |action: |Program.<Main>$
+2022-10-09 20:23:45.1689|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:23:45.1689|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:23:45.1689|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:23:45.1689|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:23:45.1689|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\LocationSimulation\WebAPI\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:24:33.8121|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Socket/SocketClient|action: Client|DataAccess.Concrete.CoordinateManager.MessageFormat
+2022-10-09 20:25:04.9898|0|DEBUG|Program|init main |url: |action: |Program.<Main>$
+2022-10-09 20:25:05.8567|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:25:05.8567|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:25:05.8567|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:25:05.8567|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:25:05.8567|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\LocationSimulation\WebAPI\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:25:26.9569|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Socket/SocketClient|action: Client|DataAccess.Concrete.CoordinateManager.MessageFormat
+2022-10-09 20:26:11.9954|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Coordinate/MessageType|action: MessageFormat|DataAccess.Concrete.CoordinateManager.MessageFormat
+2022-10-09 20:26:14.1677|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Socket/SocketClient|action: Client|DataAccess.Concrete.CoordinateManager.MessageFormat
+2022-10-09 20:26:22.2829|0|ERROR|DataAccess.Concrete.SocketManager|Exception!Varolan bir bağlantı uzaktaki bir ana bilgisayar tarafından zorla kapatıldı. |url: https://localhost/api/Socket/SocketClient|action: Client|DataAccess.Concrete.SocketManager.StartClient
+2022-10-09 20:31:57.2461|0|DEBUG|Program|init main |url: |action: |Program.<Main>$
+2022-10-09 20:31:58.1828|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:31:58.1956|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5012 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-10-09 20:31:58.1956|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:31:58.1956|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:31:58.1956|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\LocationSimulation\WebAPI\ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-10-09 20:32:14.8547|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Coordinate/MessageType|action: MessageFormat|DataAccess.Concrete.CoordinateManager.MessageFormat
+2022-10-09 20:32:23.8253|0|INFO|DataAccess.Concrete.CoordinateManager|Info |url: https://localhost/api/Socket/SocketClient|action: Client|DataAccess.Concrete.CoordinateManager.MessageFormat

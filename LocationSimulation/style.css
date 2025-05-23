@@ -1,0 +1,19 @@
+.background{
+    background: #000;
+}
+#map { 
+    width: 100%; 
+    height: 49vw; 
+    background: #000;
+}
+
+/* .sendButton{
+    margin-top: 180px;
+} */
+
+#refreshButton {
+    position: absolute;
+    margin-top: 180px;
+    padding: 10px;
+    z-index: 400;
+}
